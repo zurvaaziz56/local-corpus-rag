@@ -1,0 +1,9 @@
+.DS_Store
+.env
+__pycache__/
+# the index and the corpus itself stay local
+.obsidian-semantic-index.json
+retrieval.log
+*.md
+!README.md
+_excluded/
